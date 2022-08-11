@@ -6,4 +6,4 @@ Breast cancer can begin in different parts of the breast. A breast is made up of
 Breast cancer can spread outside the breast through blood vessels and lymph vessels. When breast cancer spreads to other parts of the body, it is said to have metastasized.
 
 BREAST CANCER ARE COMMON DISEASE FOR WOMENS NOW'S DAY!
-This is a breast cancer case study od datascience application
+This is a breast cancer case study on datascience application
